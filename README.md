@@ -1,4 +1,4 @@
-# grepcidr
+# grepcidr in python
 
 This is a simple python script that filters files like access_logs by cidr
 networks like 192.168.1.0/24 which would be relatively simple with GNU grep but
